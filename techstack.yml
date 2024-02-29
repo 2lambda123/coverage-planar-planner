@@ -2,7 +2,7 @@ repo_name: 2lambda123/coverage-planar-planner
 report_id: 944678654b0c04a19029de17397cca1d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:58:08+00:00'
+timestamp: '2024-02-29T19:16:58+00:00'
 requested_by: web-flow
 provider: github
 branch: master
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/coverage-planar-planner
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
